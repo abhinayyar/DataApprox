@@ -1,0 +1,266 @@
+GAUSIAN >>. 
+0.01 Learning rate , 1000 Iterations 
+Reached break cond [ error ] [ iterations] 
+0.000173439	1001
+61	77
+Pass % 79.2208
+Reached break cond [ error ] [ iterations] 
+0.000118283	1001
+62	77
+Pass % 80.5195
+Reached break cond [ error ] [ iterations] 
+7.6629e-05	1001
+63	77
+Pass % 81.8182
+Reached break cond [ error ] [ iterations] 
+4.18583e-05	1001
+62	77
+Pass % 80.5195
+Reached break cond [ error ] [ iterations] 
+2.65422e-05	1001
+63	77
+Pass % 81.8182
+Reached break cond [ error ] [ iterations] 
+1.90819e-05	1001
+63	77
+Pass % 81.8182
+Reached break cond [ error ] [ iterations] 
+1.48494e-05	1001
+63	77
+Pass % 81.8182
+Reached break cond [ error ] [ iterations] 
+1.24566e-05	1001
+63	77
+Pass % 81.8182
+Reached break cond [ error ] [ iterations] 
+1.13732e-05	1001
+67	77
+Pass % 87.013
+Reached break cond [ error ] [ iterations] 
+1.10068e-05	1001
+67	77
+Pass % 87.013
+======== AVERAGE ====== 
+82.3377
+ Data size 77
+0.01 Learning rate , 10000 Iterations 
+Reached break cond [ error ] [ iterations] 
+1.10086e-05	10001
+67	77
+Pass % 87.013
+Reached break cond [ error ] [ iterations] 
+1.29673e-05	10001
+69	77
+Pass % 89.6104
+Reached break cond [ error ] [ iterations] 
+2.80017e-05	10001
+71	77
+Pass % 92.2078
+Reached break cond [ error ] [ iterations] 
+2.25329e-05	10001
+72	77
+Pass % 93.5065
+Reached break cond [ error ] [ iterations] 
+1.29074e-05	10001
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+8.38915e-06	10001
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+6.25772e-06	10001
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+5.99982e-06	1149
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+5.99965e-06	1
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+5.99941e-06	1
+73	77
+Pass % 94.8052
+======== AVERAGE ====== 
+93.1169
+ Data size 77
+0.01 Learning rate , 100000 Iterations 
+Reached break cond [ error ] [ iterations] 
+5.99982e-06	71156
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+5.99965e-06	1
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+5.99941e-06	1
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+5.99919e-06	1
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+5.99901e-06	1
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+5.9988e-06	1
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+5.99861e-06	1
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+5.99839e-06	1
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+5.99818e-06	1
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+5.99801e-06	1
+73	77
+Pass % 94.8052
+======== AVERAGE ====== 
+94.8052
+ Data size 77
+0.001 Learning rate , 1000 Iterations 
+Reached break cond [ error ] [ iterations] 
+0.00335352	1001
+33	77
+Pass % 42.8571
+Reached break cond [ error ] [ iterations] 
+0.0033171	1001
+33	77
+Pass % 42.8571
+Reached break cond [ error ] [ iterations] 
+0.00324508	1001
+33	77
+Pass % 42.8571
+Reached break cond [ error ] [ iterations] 
+0.00300299	1001
+42	77
+Pass % 54.5455
+Reached break cond [ error ] [ iterations] 
+0.00228117	1001
+62	77
+Pass % 80.5195
+Reached break cond [ error ] [ iterations] 
+0.00112233	1001
+61	77
+Pass % 79.2208
+Reached break cond [ error ] [ iterations] 
+0.000471068	1001
+61	77
+Pass % 79.2208
+Reached break cond [ error ] [ iterations] 
+0.000272182	1001
+61	77
+Pass % 79.2208
+Reached break cond [ error ] [ iterations] 
+0.000204703	1001
+61	77
+Pass % 79.2208
+Reached break cond [ error ] [ iterations] 
+0.000174452	1001
+61	77
+Pass % 79.2208
+======== AVERAGE ====== 
+65.974
+ Data size 77
+0.001 Learning rate , 10000 Iterations 
+Reached break cond [ error ] [ iterations] 
+0.000174646	10001
+61	77
+Pass % 79.2208
+Reached break cond [ error ] [ iterations] 
+0.000119574	10001
+62	77
+Pass % 80.5195
+Reached break cond [ error ] [ iterations] 
+7.74533e-05	10001
+63	77
+Pass % 81.8182
+Reached break cond [ error ] [ iterations] 
+4.22314e-05	10001
+62	77
+Pass % 80.5195
+Reached break cond [ error ] [ iterations] 
+2.67257e-05	10001
+63	77
+Pass % 81.8182
+Reached break cond [ error ] [ iterations] 
+1.92519e-05	10001
+63	77
+Pass % 81.8182
+Reached break cond [ error ] [ iterations] 
+1.49385e-05	10001
+63	77
+Pass % 81.8182
+Reached break cond [ error ] [ iterations] 
+1.25286e-05	10001
+64	77
+Pass % 83.1169
+Reached break cond [ error ] [ iterations] 
+1.14467e-05	10001
+67	77
+Pass % 87.013
+Reached break cond [ error ] [ iterations] 
+1.10817e-05	10001
+67	77
+Pass % 87.013
+======== AVERAGE ====== 
+82.4675
+ Data size 77
+0.001 Learning rate , 100000 Iterations 
+Reached break cond [ error ] [ iterations] 
+1.10825e-05	100001
+67	77
+Pass % 87.013
+Reached break cond [ error ] [ iterations] 
+1.34277e-05	100001
+69	77
+Pass % 89.6104
+Reached break cond [ error ] [ iterations] 
+2.76534e-05	100001
+71	77
+Pass % 92.2078
+Reached break cond [ error ] [ iterations] 
+2.28242e-05	100001
+72	77
+Pass % 93.5065
+Reached break cond [ error ] [ iterations] 
+1.27056e-05	100001
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+8.43295e-06	100001
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+6.44694e-06	100001
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+5.99996e-06	22981
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+5.99995e-06	1
+73	77
+Pass % 94.8052
+Reached break cond [ error ] [ iterations] 
+5.99994e-06	1
+73	77
+Pass % 94.8052
+======== AVERAGE ====== 
+93.1169
+ Data size 77
+-------------------------
